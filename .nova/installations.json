@@ -1,0 +1,16 @@
+{
+  "requireApproval": true,
+  "requests": [
+    {
+      "id": "req_1791461065023_y8446",
+      "projectId": "c3091a59-970c-4a3b-b10f-e9dcab417a2c",
+      "firstName": "simplice",
+      "deviceId": "dev_1791461042144_6ns8dgn",
+      "status": "approved",
+      "createdAt": "2026-10-08T12:04:25.023Z",
+      "updatedAt": "2026-10-08T12:12:52.684Z",
+      "platform": "Web",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+    }
+  ]
+}
